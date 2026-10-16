@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Victor Karpov</h1>
-<h3 align="center">A passionate beginner C# and Unity developer from Russia</h3>
+<h3 align="center">I’m currently learning Python and building my first projects. My GitHub is a work in progress. I’m interested in software development, AI/ML, and cybersecurity.Beginner C# and Unity developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikartx&label=Profile%20views&color=0e75b6&style=flat" alt="vikartx" /> </p>
 
